@@ -16,4 +16,4 @@ Categorical mortality columns were encoded numerically or imputed.
 ## 🎯 Target Variable
 Carbon dioxide emissions per capita (tonnes) 2011 is the output variable used for regression modeling.
 
-T
+
